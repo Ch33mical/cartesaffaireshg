@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dubé;Justin;;;
+FN:Justin Dubé
+ORG:HGrégoire Nissan Blainville
+TEL;TYPE=CELL:+15146012487
+EMAIL;TYPE=WORK:jdube@hgregoirenissan.com
+ADR;TYPE=WORK:;;705 Bd Curé-Labelle;Blainville;QC;J7C 2J8;Canada
+END:VCARD
